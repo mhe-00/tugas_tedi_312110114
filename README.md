@@ -1,5 +1,7 @@
 # tugas_tedi_312110114
 ## Belajar Tag Dasar HTML
 
-### Belajar Membuat Paragraf Dan File README.md (tutorial)
+### Membuat Paragraf
+kode tag untuk paragraf adalah `<p>`
+ini adalah tampilannya
 ![gambar 1](screenshot/ss1.png)
