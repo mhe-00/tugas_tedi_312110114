@@ -59,3 +59,7 @@ ini adalah tampilannya
 ![gambar 27](screenshot/gambar27.png)
 
 ![gambar 28](screenshot/gambar28.png)
+
+##### Selanjutnya cara menambahkan file screenshot ata file lainnya ke repositories kita 
+
+###### Buka software git bash lalu ketikkan git add screenshot/gambar.png enter, kemudian ketikkan git add README.md enter, git add README.md ini untuk menambahkan/memperbaharui file/data, yang sudah kita rubah di VCS, kemudian git commit -m " memberi komentar ketika file diperbaharui", kemudian git push -u origin main fungsinya untuk seperti kita meng upload ke data repositories kita.
